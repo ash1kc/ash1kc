@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hello there👋, Welcome to my profile😃. Im Ashik.....Im a bachelor's graduate and data science enthusiast👨‍🎓. <br><br><br><br>
+Hello there👋, Welcome to my profile😃. 
+Im Ashik.....Im a bachelor's graduate and data science enthusiast👨‍🎓. <br><br><br><br>
 
 
 # 💻 Tech Stack:
