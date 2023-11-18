@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello there👋, Welcome to my profile😃. 
-Im Ashik.....Im a bachelor's graduate and data science enthusiast👨‍🎓. <br><br><br><br>
+Im Ashik.....Currently pursuing MSc Big Data Analytics👨‍🎓. <br><br><br><br>
 
 
 # 💻 Tech Stack:
