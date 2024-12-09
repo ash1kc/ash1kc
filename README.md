@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hello there👋, Welcome to my profile😃. 
-Im Ashik.....Currently pursuing MSc Big Data Analytics👨‍🎓. <br><br><br><br>
+I am Ashik and currently pursuing an MSc in Big Data Analytics👨‍🎓.
+Thank You for visiting my profile!<br><br><br><br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # 💻 Tech Stack:
