@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello there👋 I'm Ashik,
-I'm a Data Analyst with 1 year of professional experience, currently pursuing an MSc in Big Data Analytics. I'm passionate about exploring data, deriving insights, and presenting them through impactful visualizations and engaging storytelling. <br><br><br><br>
+I'm a Data Analyst, currently pursuing an MSc in Big Data Analytics. I'm passionate about exploring data, deriving insights, and presenting them through impactful visualizations and engaging storytelling. <br><br><br><br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # 💻 Tech Stack:
